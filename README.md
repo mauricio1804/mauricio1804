@@ -29,7 +29,7 @@ Me chamo Maurício Fabiano Azevedo Filho, tenho 21 anos e sou natural do Paraná
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### 💻 Frontend
 <p>
@@ -62,8 +62,6 @@ Me chamo Maurício Fabiano Azevedo Filho, tenho 21 anos e sou natural do Paraná
 </p>
 
 ---
-
-## 📊 Estatísticas
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=mauricio1804&show_icons=true&theme=tokyonight&locale=pt-br"/>
