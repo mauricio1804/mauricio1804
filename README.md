@@ -12,20 +12,18 @@ Me chamo Maurício Fabiano Azevedo Filho, tenho 21 anos e sou natural do Paraná
 
 ---
 
-## 📫 Contato
-
 <p align="center">
-  <a href="https://github.com/mauricio1804">
-    <img src="https://img.shields.io/badge/GitHub-mauricio1804-181717?style=for-the-badge&logo=github" />
+  <a href="mailto:mauricio.fabiano.azevedo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mauricio.fabiano.azevedo@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/mauriciofabianoazevedo">
-    <img src="https://img.shields.io/badge/Instagram-@mauriciofabianoazevedo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://github.com/mauricio1804">
+    <img src="https://img.shields.io/badge/GitHub-mauricio1804-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/seu-link">
-    <img src="https://img.shields.io/badge/LinkedIn-Maurício%20Fabiano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Maurício%20Fabiano-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mauricio.fabiano.azevedo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://instagram.com/mauriciofabianoazevedo">
+    <img src="https://img.shields.io/badge/Instagram-@mauriciofabianoazevedo-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
 
