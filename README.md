@@ -1,20 +1,13 @@
 # 💻 Maurício Fabiano Azevedo Filho
 
-<p align="center">
-  🎓 Computer Science Student • 🤖 Artificial Intelligence Enthusiast • 💻 Full Stack Developer
-</p>
+<div align="center">
+### Computer Science Student · AI Enthusiast · Full Stack Developer
 
-<p align="center">
-  <a href="mailto:mauricio.fabiano.azevedo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mauricio.fabiano.azevedo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/mauricio1804">
-    <img src="https://img.shields.io/badge/GitHub-mauricio1804-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mauricioazevedofilho">
-    <img src="https://img.shields.io/badge/LinkedIn-Maurício%20Fabiano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/mauricio.fabiano.azevedo@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mauricio.fabiano.azevedo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/mauricioazevedofilho-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauricioazevedofilho)
+[![GitHub](https://img.shields.io/badge/mauricio1804-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mauricio1804)
+
+</div>
 
 ---
 
@@ -30,121 +23,83 @@ I am seeking internship and junior-level opportunities where I can apply my tech
 
 ---
 
-## 🎯 Current Focus
+## 🔬 Featured Projects
 
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 🎵 Audio Signal Processing
-* 📊 Deep Learning
-* 🌐 Web Development
-* 🐳 Docker & DevOps Fundamentals
+<table>
+<tr>
+<td width="50%">
 
----
+### 🥁 Drum Sound Classifier
+Automatic classification of isolated drum sounds using **CNNs** and **Log-Mel Spectrograms** — undergraduate research bridging music and AI.
 
-## 🚀 Featured Projects
+`Python` `TensorFlow` `Keras` `Librosa`
 
-### 🎵 Drum Sound Classification using CNN
+</td>
+<td width="50%">
 
-Undergraduate research project focused on automatic classification of isolated drum instrument sounds using Deep Learning techniques.
+### 🌐 RESTful API
+Design and development of REST APIs following software engineering best practices, with clean architecture and proper documentation.
 
-**Technologies**
+`Laravel` `PHP` `MySQL`
 
-Python • TensorFlow • Keras • Librosa • CNN • Log-Mel Spectrograms
-
----
-
-### 📈 Simplex Algorithm Implementation
-
-Implementation of the Simplex Method in PHP, including Phase I and Phase II, for solving Linear Programming problems.
-
-**Technologies**
-
-PHP • Linear Programming • Operational Research
+</td>
+</tr>
+</table>
 
 ---
 
-### 🩺 Expert System for Computer Startup Diagnostics
+## 🛠 Tech Stack
 
-Expert system developed to assist users in identifying hardware issues related to computer startup failures.
+**Languages**
 
-**Technologies**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-Artificial Intelligence • Expert Systems • Expert SINTA
+**Frontend**
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-### 🌐 REST API Development
+**Backend & Frameworks**
 
-Development of RESTful APIs following software engineering best practices.
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-**Technologies**
+**Mobile**
 
-Laravel • PHP • MySQL • REST API
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
----
+**Databases**
 
-## 💻 Technologies
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Languages
+**Tools**
 
-<p>
-  <img alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-</p>
-
-### Frontend
-
-<p>
-  <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-</p>
-
-### Backend & Frameworks
-
-<p>
-  <img alt="Laravel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
-</p>
-
-### Databases
-
-<p>
-  <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-</p>
-
-### Tools
-
-<p>
-  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mauricio1804&show_icons=true&theme=tokyonight"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio1804&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mauricio1804&theme=tokyonight"/>
-</p>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mauricio1804&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio1804&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mauricio1804&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"/>
 
-## 📫 Contact
-
-* 📧 Email: [mauricio.fabiano.azevedo@gmail.com](mailto:mauricio.fabiano.azevedo@gmail.com)
-* 💼 LinkedIn: linkedin.com/in/mauricioazevedofilho
-* 💻 GitHub: github.com/mauricio1804
+</div>
 
 ---
 
-⭐ Always learning, building, and exploring new technologies.
+<div align="center">
+
+*Always learning, building, and exploring new technologies.*
+
+</div>
