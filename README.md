@@ -1,70 +1,150 @@
-# 💻 Maurício F. Azevedo F.
+# 💻 Maurício Fabiano Azevedo Filho
 
 <p align="center">
-  🎓 Ciência da Computação (UNICENTRO) • 💻 Desenvolvedor FullStack • 🚀 Em busca de oportunidade
+  🎓 Computer Science Student • 🤖 Artificial Intelligence Enthusiast • 💻 Full Stack Developer
 </p>
-
----
-
-## 🚀 Sobre mim
-
-Me chamo Maurício Fabiano Azevedo Filho, tenho 21 anos e sou natural do Paraná. Concluí o ensino médio no Colégio Estadual Visconde de Guarapuava, juntamente com o curso técnico em Desenvolvimento de Sistemas pelo Senai. Atualmente, estou cursando o último ano de Ciência da Computação pela UNICENTRO. Meu interesse por tecnologia surgiu ainda no ensino médio, e foi durante o curso técnico que tive a certeza de que queria seguir carreira na área. Possuo experiência com algumas linguagens de programação e estou em busca de uma oportunidade para ingressar no mercado de trabalho. Tenho facilidade e interesse em aprender novas tecnologias e linguagens.
-
----
 
 <p align="center">
   <a href="mailto:mauricio.fabiano.azevedo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mauricio.fabiano.azevedo@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-mauricio.fabiano.azevedo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/mauricio1804">
-    <img src="https://img.shields.io/badge/GitHub-mauricio1804-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-mauricio1804-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/mauricioazevedofilho">
-    <img src="https://img.shields.io/badge/LinkedIn-Maurício%20Fabiano-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/mauriciofabianoazevedo">
-    <img src="https://img.shields.io/badge/Instagram-@mauriciofabianoazevedo-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Maurício%20Fabiano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## Tecnologias
+## 🚀 About Me
 
-### 💻 Frontend
+I am a Computer Science student at UNICENTRO with interests in Artificial Intelligence, Machine Learning, Software Engineering, and Full Stack Development.
+
+I hold a Technical Degree in Systems Development from SENAI and have academic experience in web application development using Laravel, PHP, relational databases, and REST APIs.
+
+Currently, I am developing my undergraduate thesis focused on the automatic classification of isolated drum sounds using Convolutional Neural Networks (CNNs) and Log-Mel spectrograms.
+
+I am seeking internship and junior-level opportunities where I can apply my technical skills, contribute to innovative projects, and continue growing as a software developer and AI researcher.
+
+---
+
+## 🎯 Current Focus
+
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 🎵 Audio Signal Processing
+* 📊 Deep Learning
+* 🌐 Web Development
+* 🐳 Docker & DevOps Fundamentals
+
+---
+
+## 🚀 Featured Projects
+
+### 🎵 Drum Sound Classification using CNN
+
+Undergraduate research project focused on automatic classification of isolated drum instrument sounds using Deep Learning techniques.
+
+**Technologies**
+
+Python • TensorFlow • Keras • Librosa • CNN • Log-Mel Spectrograms
+
+---
+
+### 📈 Simplex Algorithm Implementation
+
+Implementation of the Simplex Method in PHP, including Phase I and Phase II, for solving Linear Programming problems.
+
+**Technologies**
+
+PHP • Linear Programming • Operational Research
+
+---
+
+### 🩺 Expert System for Computer Startup Diagnostics
+
+Expert system developed to assist users in identifying hardware issues related to computer startup failures.
+
+**Technologies**
+
+Artificial Intelligence • Expert Systems • Expert SINTA
+
+---
+
+### 🌐 REST API Development
+
+Development of RESTful APIs following software engineering best practices.
+
+**Technologies**
+
+Laravel • PHP • MySQL • REST API
+
+---
+
+## 💻 Technologies
+
+### Languages
+
 <p>
-  <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+  <img alt="PHP" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+  <img alt="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 </p>
 
-### ⚙️ Backend
-<p>
-  <img alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-  <img alt="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
-  <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-    <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+### Frontend
 
+<p>
+  <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
 </p>
 
-### 💾 Banco de Dados
+### Backend & Frameworks
+
 <p>
-  <img alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-  <img alt="PostgreSQL" title="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+  <img alt="Laravel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
 </p>
 
-### 🔧 Ferramentas
+### Databases
+
 <p>
-  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img alt="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+</p>
+
+### Tools
+
+<p>
+  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="Docker" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 </p>
 
 ---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mauricio1804&show_icons=true&theme=tokyonight&locale=pt-br"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio1804&theme=tokyonight&layout=compact&locale=pt-br"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mauricio1804&show_icons=true&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio1804&layout=compact&theme=tokyonight"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mauricio1804&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contact
+
+* 📧 Email: [mauricio.fabiano.azevedo@gmail.com](mailto:mauricio.fabiano.azevedo@gmail.com)
+* 💼 LinkedIn: linkedin.com/in/mauricioazevedofilho
+* 💻 GitHub: github.com/mauricio1804
+
+---
+
+⭐ Always learning, building, and exploring new technologies.
