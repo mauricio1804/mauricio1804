@@ -1,9 +1,9 @@
 
 <div align="center">
-'
-  💻 Maurício Fabiano Azevedo Filho
-'
-### Computer Science Student · AI Enthusiast · Full Stack Developer
+  
+<h1>💻 Maurício Fabiano Azevedo Filho</h1>
+<br/>
+<h3>· Computer Science Student · AI Enthusiast · Full Stack Developer</h3>
 
 [![Email](https://img.shields.io/badge/mauricio.fabiano.azevedo@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mauricio.fabiano.azevedo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/mauricioazevedofilho-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauricioazevedofilho)
